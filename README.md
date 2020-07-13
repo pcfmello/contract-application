@@ -1,4 +1,4 @@
-# ONLINE CONTRACTS APPLICATION
+# ONLINE CONTRACTS APPLICATION (Copy of my repo it's in https://bitbucket.org/pcfmello/contract-application)
 
 It's a project developed to create new contracts of jobs, and rent and other contract types.
 
@@ -31,7 +31,7 @@ And then, open other terminal and run frontend application:
 
 ## Running project
 
-Opening web browser and access `http://localhost:3000
+Opening web browser and access http://localhost:3000
 
 ## License
 
