@@ -1,0 +1,24 @@
+{
+  "name": "contract-application",
+  "version": "1.0.0",
+  "description": "A application to create digital contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/pcfmello/contract-application.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "app",
+    "application",
+    "contract",
+    "javascript"
+  ],
+  "author": "Paulo Cesar Ferreira de Mello <pcfmello@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/pcfmello/contract-application#readme"
+}
